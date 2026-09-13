@@ -98,7 +98,7 @@ Here are some helpful resources I've gathered over the past couple years that ha
 
 **Videos**
 - [Walkable Cities But They Keep Getting More Affordable — Ray Delahnty, CityNerd](https://youtu.be/kYLPUsn0X3E?si=33jpapPYY8Vx7xWZ)
-- [SolarPunk](/solarpunk) [Cities: Our Last Hope? — DamiLee](https://youtu.be/UVlBmdvIC6s?si=E2kjoCPgDrgRESd4)
+- [[SolarPunk]] [Cities: Our Last Hope? — DamiLee](https://youtu.be/UVlBmdvIC6s?si=E2kjoCPgDrgRESd4)
 
 **Events**
 - **Life After Cars on 03/13/2026 @ Plaza Theater near Ponce City Market:** A stop for [Life After Cars](https://bookshop.org/p/books/life-after-cars-freeing-ourselves-from-the-tyranny-of-the-automobile-aaron-naparstek/9af03feee57404e9?ean=9780593850725&next=t) book tour  with authors Sarah Goodyear and Doug Gordon. Hosted by the bike advocacy group [Propel ATL](https://www.letspropelatl.org/).

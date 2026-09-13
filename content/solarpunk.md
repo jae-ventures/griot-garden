@@ -31,6 +31,6 @@ Enjoy!📙
 |[A Psalm for the Wild-built](https://bookshop.org/a/122334/9781250236210)|Becky Chambers|[Yes!](https://libro.fm/audiobooks/9781250807748-a-psalm-for-the-wild-built)|
 |[A Prayer for the Crown-Shy](https://bookshop.org/a/122334/9781250236234)|Becky Chambers|[Yes!](https://libro.fm/audiobooks/9781250808646-a-prayer-for-the-crown-shy)|
 |[Death of the Author](https://bookshop.org/a/122334/9780063391147)|Nnedi Okorafor|[Yes!](https://libro.fm/audiobooks/9780063391178-death-of-the-author)|
-|[Homebound](https://bookshop.org/a/122334/9781668201732)|Portia Elan||
+|[Homebound](https://bookshop.org/a/122334/9781668201732)|Portia Elan|have not listened to yet|
 
 [Complete reading list on Bookshop.org](https://bookshop.org/lists/solarpunk-jordan-ventures)
