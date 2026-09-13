@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: jordanventures.tech
+  baseUrl: jordanventures.tech/griot-garden
   ignorePatterns:
     - private
     - templates
