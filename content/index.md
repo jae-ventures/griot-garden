@@ -1,10 +1,12 @@
 ---
-title: welcome to my digital garden
+title: "Jordan Ventures: a place to imagine"
 ---
+
+## welcome to my digital garden
 
 Hi, I’m Jordan – a software developer and writer watering my seeds of interests in technology, storytelling, and livable cities on my block of the internet.
 
-My journey began with my love for electric vehicles but has since evolved into exploring how thoughtful urban design can create more equitable transit systems and make our everyday spaces feel *livable* – places where we feel free to tell our story.
+My journey began with my love for electric vehicles but has since evolved into exploring how thoughtful urban design can create more equitable transit systems and make our everyday spaces feel *livable* – places where we feel free to tell and live our story.
 
 Currently I'm pursuing my OMSCS degree at Georgia Tech with a focus on Human Computer Interaction, exploring how we can build more intuitive and respectful relationships between people and technology. I spend my time coding, reading [solarpunk](/solarpunk) and [afrofuturism](https://bookshop.org/lists/afrofuturism-jordan-ventures) literature[^1], and envisioning a future where technology is not exploitative of a people, but helps them and their communities thrive.
 
