@@ -2,7 +2,7 @@
 title: "Jordan Ventures: a place to imagine"
 ---
 
-## welcome to my digital garden
+## welcome to my digital garden!
 
 Hi, I’m Jordan – a software developer and writer watering my seeds of interests in technology, storytelling, and livable cities on my block of the internet.
 
