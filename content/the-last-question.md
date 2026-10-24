@@ -1,7 +1,7 @@
 ---
 title: the last question | a short story
 date: 2026-10-23 19:00:00
-description: A short story inspired by Isaac Asimov's *The Last Question* that explores man and machine's journey to the end of the universe. This story doesn't go so far, but rather explores how the relationship between humanity and AI evolves and asks what is next.
+description: A short story inspired by Isaac Asimov's *The Last Question* that explores man and machine's journey to the end of the universe. This story doesn't go so far, but rather explores how the relationship between humanity and AI evolves as we asks ourseleves "What's next?".
 tags: literature, short-story
 ---
 
