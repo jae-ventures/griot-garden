@@ -20,7 +20,7 @@ The email read as follows:
 > 
 > We are really sad to see you go. If you would like any further details [as to why we decided to replace your human judgement of design work with AI generated slop], please feel free to contact the HR department at [ROBOT-CALLCENTER-666-FUCK-ME!]
 > 
-> Best,
+> Best,  
 > [your former jailer of an employer, fucking cunts]
 
 So in as so many words, Stella was left wondering "Well now what? What was next?" She knew from past coworkers who went through this only months before, that her severance pay would be substantial and help her hold out for some time. This was thanks to a bill passed last year in Congress (by some miracle) that required corporations to provide a livable runway for employees who were let go for "efficiency gains". These corporations of course were guaranteed substantial tax breaks for doing this as "efficiency gains" were being encouraged so we could "bolster our economy" and "compete with our peers". All in the name of progress.
@@ -99,14 +99,14 @@ If my ocular sensors had the capability of tears, those tears would be coming li
 
 # Author's Notes
 
-> *This world would make you second-guess your first mind*
-> *Remember when it was your first day, the first time?*
-> *It couldn't have come at a worst place or worst time*
-> *And you remember that lil' voice with that rehearsed line*
-> *Just repeatin'*
-> *"Do your thing, child*
-> *Do your thing*
-> *Just do your thing, child*
+> *This world would make you second-guess your first mind*  
+> *Remember when it was your first day, the first time?*  
+> *It couldn't have come at a worst place or worst time*  
+> *And you remember that lil' voice with that rehearsed line*  
+> *Just repeatin'*  
+> *"Do your thing, child*  
+> *Do your thing*  
+> *Just do your thing, child*  
 > *Do your thing"*
 >
 > ~ Chance the Rapper on *Child of God*
