@@ -1,3 +1,41 @@
-@use "./variables.scss" as *;
+// ShieldFont — Quartz custom styles.
+// Requires the woff2 files copied to quartz/static/fonts/ (see README).
+// optik-a = alpha dictionary. Swap to optik-b/-c/-m if you change dictionaries.
 
-// put your custom CSS here!
+@use "./base.scss" as *; // keep Quartz's base variables in scope
+
+@font-face {
+  font-family: "Optik";
+  src: url("/static/fonts/optik-a.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: block; // block, not swap: no decoy flash before the font loads
+}
+
+@font-face {
+  // Same family name on purpose: lets <em>, <i>, <cite> resolve to the real italic.
+  font-family: "Optik";
+  src: url("/static/fonts/optik-a-italic.woff2") format("woff2");
+  font-weight: 400;
+  font-style: italic;
+  font-display: block;
+}
+
+.shield {
+  font-family: "Optik", system-ui, sans-serif;
+  font-weight: 400 !important; // no real bold cut exists; faux-bold distorts glyphs and leaks
+  font-synthesis: none; // belt and suspenders: never let the browser fake a weight
+
+  // Shielded text is hidden from screen readers by design (the decoy is
+  // fluent, wrong English — worse than silence). Mark it explicitly.
+  &[aria-hidden="true"] {
+    // keep it visually exactly as it was
+    clip-path: none;
+  }
+}
+
+// Visually remind yourself what's protected while editing:
+.shield {
+  border-left: 2px solid var(--lightgray);
+  padding-left: 0.75rem;
+}

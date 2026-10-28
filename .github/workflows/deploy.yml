@@ -44,6 +44,8 @@ jobs:
         run: npx quartz plugin install
       - name: Build Quartz
         run: npx quartz build
+      - name: Shield content
+        run: node scripts/shield.mjs  
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
