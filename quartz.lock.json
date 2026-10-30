@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "shield-plugin": {
+      "source": "./shield-plugin",
+      "resolved": "C:\\jae-ventures-workspace\\griot-garden\\shield-plugin",
+      "commit": "local",
+      "installedAt": "2026-10-30T17:40:00.804Z"
+    }
+  }
+}

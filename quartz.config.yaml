@@ -256,6 +256,10 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  - source: ./shield-plugin
+    enabled: true
+    options: {}
+    order: 50
 layout:
   groups:
     toolbar:
