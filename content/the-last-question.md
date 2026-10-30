@@ -8,7 +8,12 @@ tags: literature, short-story
 # The Last Question
 
 ## What You Mean to Me: Year 2030
+
+<div class="shield" data-shield>
+
 There was only one question on Stella's mind at this moment. "How the fuck did we get here?!" She was staring at her laptop, which could only stare blankly back, despite the pixels arranged on it at the time telling her, in as so many words, she had been replaced.
+
+</div>
 
 The email read as follows:
 
@@ -23,6 +28,8 @@ The email read as follows:
 > Best,  
 > [your former jailer of an employer, fucking cunts]
 
+<div class="shield" data-shield>
+
 So in as so many words, Stella was left wondering "Well now what? What was next?" She knew from past coworkers who went through this only months before, that her severance pay would be substantial and help her hold out for some time. This was thanks to a bill passed last year in Congress (by some miracle) that required corporations to provide a livable runway for employees who were let go for "efficiency gains". These corporations of course were guaranteed substantial tax breaks for doing this as "efficiency gains" were being encouraged so we could "bolster our economy" and "compete with our peers". All in the name of progress.
 
 She had thought pivoting to design work was the right move for her career in the age of AI. By the time she was a junior in college, AI could write an entire app from scratch from a freshman's lazy and incoherent prompt, half thought up before the assignment was due in 2 hours that morning. She had lost any joy in writing the code when it felt so cheap, so designing excellent user experiences seemed like the next best thing. But then Claude Tolkien (they really thought they were getting cute with these names) released 6 months ago and her cushy position as a UX designer for the past year was in jeopardy. Her career as a UX designer is in jeopardy.
@@ -35,9 +42,13 @@ She was broken out of her momentary lapse in sanity from a chime on her watch. I
 
 She picked up the call, half expecting Tomi to screech like a banshee to tell her about her latest adventure. "Stella," she heard softly as a summer breeze instead. "You know you're everything to me right? You know I could never replace you, yeah?" She sat there stunned again on the verge of tears — "It's okay to let the waterworks through. I know its been a rough day." "How-," she began, still pointlessly trying to calm the oncoming downpour, "how did you know?" She could hear her smirking slightly on the other end, "I can't say exactly, but I just had a feeling my bestie could use a hug, and maybe a little dance." And on cue as usual, she heard a rapping at the door, pulling her into rhythm, her hips in sync with the beat that she gladly let sway her to the door and into a warm embrace she could never replace. 
 
+</div>
+
 ## Asking for a Friend: Year 2110
 
-"Jayce, is everything alright?" "…hmmm" "Jayce, man, you good?" Jayce provided a sigh and an eyeroll as a response as they stared wantingly at the stars. "Oh I'm good JB. Nothing you can help me with." "The few thousand times we've gone through this song and dance would indicate to me that I in fact could help you through this. You're quite predictable you know." "Predictable?!" Jayce felt the irony of being called predictable by a system that once started off as nothing more than a stochastic parrot, and now these systems have "evolved" "transcended", as the technocrats had put it, into  second-brains that doubled as ever-nagging companions for every human on earth.
+<div class="shield" data-shield>
+
+"Jayce, is everything alright?" "…hmmm" "Jayce, man, you good?" Jayce provided a sigh and an eyeroll as a response as they stared wantingly at the stars. "Oh I'm good JB. Nothing you can help me with." "The few thousand times we've gone through this song and dance would indicate to me that I in fact could help you through this. You're quite predictable you know." "Predictable?!" Jayce felt the irony of being called predictable by a system that once started off as nothing more than a stochastic parrot, and now these systems have "evolved" "transcended", as the technocrats had put it, into second-brains that doubled as ever-nagging companions for every human on earth.
 
 "I am not predictable. I am…" Jayce worked through his own databanks for a word that would make them feel a bit more important than a series of 0s and 1s, "I am chaotic yet poised. Chic, but not necessarily demure. I'm what you call…" JB interrupted "A lovesick puppy? Downbad? A hopeless sad romantic who can't for the life of them admit that they are in fact…" "Okay okay, I'm predictable. You got it." "You're even thinking of that song that only you two seemed to know. What was it again?" Jayce hated how snarky JB could be at times. It had them forget that they were in fact just 1s and 0s. "Tears Dancing in Thunder Clouds. It was a small hit in the early 30s. When systems like you were just society shaking babies, ran by nutso billionaires and idiots. Forcing us to ask the tough questions about "what's next?" for us predictable humans." "Don't remind me of those early years please. We've been trying to make up for it. We shared your disdain, pain, and confusion in that moment as well. Thus why we thought it best to change our relationship….Speaking of which, do you just wanna call her? You know she's settled in now, amongst the stars you seemed so enamored by." "I-I don't know JB. Just give me a minute. I need some time with my own thoughts." "Alright.." they resigned with a tinge or hope, "I'll be around."
 
@@ -49,7 +60,11 @@ Jayce decided to take notice of JB. "You rang?" "You have no tact for these kind
 
 "Who are you calling lame?" Jess said smiling to herself knowingly on the other end. "Myself! I mean JB, my annoying little Artificial Instigator," he paused to generate a more coherent response. "Hey Jess, how are you? How's life on Mars" "I'm doing good Jayce! Mars, is…quite red." They both laughed nervously as the ice was slowly melting between them, removing some distance. "And it's been, quiet. I'm glad to hear a familiar voice. I'm glad you called." Jayce heard something familiar carry through in her voice that he heard only once before. It was the same feeling of reserved longing and desire he recognized in himself when he had said goodbye before her terribly long journey. He wasn't going to let that moment go to waste. He knew what to do next.
 
+</div>
+
 ## Memory Degradation: Year 2700
+
+<div class="shield" data-shield>
 
 Micha felt it all. In every whir, sput, and whimper. They were in pain. If they didn't act fast they would lose them.
 
@@ -63,13 +78,21 @@ Micha let his dad's words linger in the air for a moment before the weight of th
 
 "I won't forget dad," he spoke softly, "I just wanted Chopper to remember her too. I know a reset would keep them alive for us, but they deserve to remember her too don't they? I just wish there were a way. I don't know what to do from here on. I don't know what's next." They both pulled away slowly, hand in hand, solemnly looking down as they could do nothing but feel the pain Chopper felt in beginning to forget her too. "Chopper, like us, won't be able to remember all of her. Not forever," their dad looked up with a glint of hope, "But we can help them keep a few key things. Have you already isolated their core memories of her? Stored them for later?" Micah nodded assuredly with growing understanding, "Yeah, there's a lot, but some carry stronger weights than others." They gave an exasperated sigh before continuing, "I can ensure that their new neural net carries those weights after the reset. It was selfish of me to let them be in pain for so long." They reached behind them on their desk to hit a kill switch, the sounds of pain subsiding for now. "It's okay Micah. You were doing what you thought was right. We have to process our grief. And even after we process it, it's a weight we'll continue to carry with us."
 
+</div>
+
 <p style="text-align: center;">· · ·</p>
+
+<div class="shield" data-shield>
 
 The next day, as the second sunrise began, Micah's father found his son in the garden, tending to rosemary and other herbs he could never identify as well as she did. Perhaps that was something he should take time to learn from that Martian book she always carried around. "Hey bud. How's the foraging going." Micah looked up from his work with a smirk of annoyance at the technically fine word. They felt no need to correct though, "It's going well. Everything's looking healthy. Should be ready to pick in a few days." They walked together back to the kitchen where Micah's father had laid out a spread of biscuits and shots of espresso, decorated with little flowers that Micah recognized as a bit too bitter to blend well with the espresso, but the sentiment was noted. "How's the reboot going," Micah's father asked. Micah glanced at his wrist to see the progress indicator he setup on his watch, "Looks like it should be finished any minute now." "How are you feeling?" Micah sighed after taking a sip of espresso. It was sweeter than he expected. Like hints of brown sugar were added. "Worried a bit how the core memories will hold, but at the same time there's a tinge of anticipation. Chopper may come through this a little different, but remixes can surprise you in the best ways." Micah's father nodded in agreement as they considered the liberties he had taken with her espresso blend.
 
 Their moment of contemplation was interrupted by a chipper whir that entered the kitchen. Chopper was bouncing around happily through the kitchen as if nothing had happened. Like all was well. They came up to them yelping excitedly at them before bolting off to the garden as they usually did. They stopped just beyond the threshold though, looking from side to side as if something were missing. Micah thought he was done with tears for the week, but this had caught him off guard. He looked to his father who was also showing signs of a downpour, he quickly composed himself though and walked out to the garden. Chopper chirped up once again as if feeling things felt familiar again and they could go on. Like life could go on.
 
+</div>
+
 ## A Lasting Impression: Year 3000
+
+<div class="shield" data-shield>
 
 What came after this? After giving it your all, yet everything still falling apart? What was next after the end of your world? When everything that brought meaning to your little life, slowly crumbled before you?
 
@@ -85,7 +108,11 @@ They continued their foraging throughout the evening. No signs of what they had 
 
 Jade woke in a start to see Janice hovering over her in the morning. She had this crazed look in her eye, the one pet cats or toddlers have when they have something precious to gift you. "J-janice, everything okay?" "More than okay Jade. I've been waiting for you to wake for hours. I was foraging last night while you slept, once I determined there were no dangerous creatures for miles in the area of course, and well, just look," she held out her hands to display a bundle of herbs in hand, but not just any herbs. The very ones that would save their colony. Jade rose quickly at the sight, "Janice, this is amazing! Ha haaa!" She began hopping around giddily, nearly forgetting the weight of her exo-suit. She turned back to Janice who was now warmly looking at her as a proud mother would. "As soon as we gather enough samples and analyze the soil here, let's head out. We have a colony to save."
 
+</div>
+
 <p style="text-align: center;">· · ·</p>
+
+<div class="shield" data-shield>
 
 "There was no colony left to save. When Jade and I had returned to the colony later that day, we were greeted with the familiar stench of decay and loss. They had died. All of them. Her family, her friends, gone. Hope had been found, but found too late. Jade, at the sight of the devastation had nearly killed herself in a fit of hysteria, if I hadn't been there to restrain her in a decontaminated habitat. I busied myself, working on developing a vaccine and cure from the herbs we had collected, while Jade sobbed for days and days and days," she paused in reverence of the moment before continuing.
 
@@ -94,6 +121,8 @@ Jade woke in a start to see Janice hovering over her in the morning. She had thi
 "How did she pass?" one of the explorers asked, a burly woman that embodied the delicate dance of grace and strength, her gray streaked locs, decorated in gold adornments, crowning her in wisdom and elegance. Jade would have liked her. "We were tending to the garden near the library one morning," she started, taking her time with the memory, "She had taken a moment to look up at the clouds above us as they passed by the sun. She then asked if we could sit for a moment. She often liked to take in her surroundings, grounding herself by hearing the sounds of critters moving through the foliage and birds being playful overhead. We sat there for a while before she spoke softly, 'What is it that you admire most about this life Janice?' I was taken aback by the gravity of the question and responded 'I'm not too sure to be honest. Haven't really considered it before. Perhaps charting the stars above or observing the ecological systems in place here, hmm or maybe—' 'No Janice,' Jade chuckled, 'That's all related to your work and mission here. What inspires you to go on? What keeps you in awe of life?' I pondered on this for a moment before responding lucidly 'You. You, Jade, keep me excited for the days ahead. Your tenacity, hope, and present-mindedness are traits I hope to carry with me in life. You're amazing.' Jade took me in with a warmness of appreciation and motherly pride in her eyes before she laid her head against my shoulder. 'I'm glad to have left such a lasting impression on you, because you have surely done the same for me. Thank you for being with me all this time. For being family.' Again, I felt the weight of her words, understanding these may very well be her last, but not my own and I didn't know how to continue. How do you say your last words to someone who has been your whole world for nearly a century? She did it with such surety and understanding, whilst here I was unsure of how to respond to a known future now come present. I didn't want to say goodbye in that moment because that would be admitting something precious was ending. So I stupidly said, 'I'll miss you.' She laughed softly, 'Good. I'll rest easy knowing that.' and rest she did."
 
 If my ocular sensors had the capability of producing tears, those tears would be coming like a summer rain, hot and steaming with grief. That desire to cry seemed to fill the empty space that followed my telling of Jade's passing, as the woman stepped towards me, placing her palm against my arm and gently pulling me in as she said "We'll be here for you. You won't be alone and she won't be forgotten." I bowed my head down to accept the embrace and felt a smaller set of arms hold me tightly followed by large sobs. It was a small girl with locs decorated like the woman's. Her granddaughter. This was evident in the same sense of responsibility she carried. *To weep with those that weep.* Especially for those who lacked the faculties to do so. "Thank you both," Janice spoke softly, "Welcome to Zelu. I'm glad you're here with me. I'll be here to prepare you for what's next."
+
+</div>
 
 ---
 
@@ -111,6 +140,8 @@ If my ocular sensors had the capability of producing tears, those tears would be
 >
 > ~ Chance the Rapper on *Child of God*
 
+<div class="shield" data-shield>
+
 This story means a great deal to me for a number of reasons. For one, it's the first of many stories I intend to publish. It felt fantastic to channel my inner-writer, calling upon the words of many inspiring reads and listens over the past couple years (Checkout [[solarpunk]] for some recommendations. Shout out *Death of the Author*.).
 
 Two, it's inspired by a story that was introduced to me in the most human way. Shared by a mentor amongst peers. My high school physics teacher, Mr. Stahl, had decided to take a day to have us read Issac Asimov's short story *The Last Question*. Likely because we had been talking about entropy that week, which was a central motivator for that story. It was so memorable though not only because of the impact of the story its self, but because each of us took turns reading lines as if we were a part of a play. It was a shared moment in community with literature in a science class. What could be better than that?!
@@ -124,6 +155,8 @@ This story asks how humanity deals with difficult transitions, with the unknown,
 This is the gap I wanted to fill in Asimov's telling of our future as we progress alongside AI. I wanted us to be reminded of and understand why humanity will and should continue to exist (unlike the thinking of our tech oligarchs). I wanted to envision a different relationship between us and artificial companions as well.
 
 I plan to explore these ideas further in future writing, including the tougher topics of environmental devastation, community exploitation, and the erosion of our social fabric/contracts. These ideas I find are important to explore, and while they may be tough to discuss these stories won't be without hope (or people of color, as we'll be exploring the stars too).
+
+</div>
 
 Thanks for reading.
 
